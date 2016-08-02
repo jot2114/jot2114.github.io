@@ -1,0 +1,16 @@
+.mainNav {
+    font-family: monospace;
+}
+.navbar-header {
+    font-family: monospace;
+}
+.navbar-brand {}
+.index {}
+.jumbotron {}
+.projects {
+    background-color: red;
+}
+.img-custom {
+    height: 300px;
+    width: 300px;
+}
